@@ -5,8 +5,8 @@ Those are the datasets :
 
 | # | Dataset Name | Project Link |
 |:---:|:-------------:|:----------------:|
-| 1 | Diabetes | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/EDA%20on%20Diabetes%20Dataset) |
-| 2| Employees | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/EDA%20On%20Employees%20Dataset) |
+| 1 | Diabetes | [link](https://github.com/youssefellouh/Data_Analysis_Projects/blob/main/EDA%20On%20Employees%20Dataset/employees.csv) |
+| 2| Employees | [link](https://github.com/youssefellouh/Data_Analysis_Projects/blob/main/EDA%20on%20Diabetes%20Dataset/diabetes.csvt) |
 
 
 ### Installation
